@@ -1,0 +1,18 @@
+127.0.0.1 - Anonymous [07/May/2013:14:48:44 +0200] "GET /psi.teamraum.ch/platform/copy_of_Arbeitsplatz/createObject?type_name=Workspace HTTP/1.1" 302 528 "http://localhost:11401/psi.teamraum.ch/platform/copy_of_Arbeitsplatz" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:15:04:04 +0200] "GET /psi.teamraum.ch/platform/copy_of_Arbeitsplatz/createObject?type_name=Workspace HTTP/1.1" 302 528 "http://localhost:11401/psi.teamraum.ch/platform/copy_of_Arbeitsplatz" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:15:16:18 +0200] "GET /psi.teamraum.ch/platform/copy_of_Arbeitsplatz/createObject?type_name=Workspace HTTP/1.1" 302 528 "http://localhost:11401/psi.teamraum.ch/platform/copy_of_Arbeitsplatz/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:15:32:46 +0200] "GET /misch/projekte/createObject?type_name=Workspace HTTP/1.1" 302 465 "http://localhost:11401/misch/projekte" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:15:46:15 +0200] "GET /misch/projekte/createObject?type_name=Workspace HTTP/1.1" 302 465 "http://localhost:11401/misch/projekte/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:16:16:06 +0200] "GET /misch/projekte/createObject?type_name=Workspace HTTP/1.1" 302 465 "http://localhost:11401/misch/projekte" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:16:20:39 +0200] "GET /misch/projekte/createObject?type_name=Workspace HTTP/1.1" 302 465 "http://localhost:11401/misch/projekte" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:16:22:12 +0200] "GET /misch/projekte/createObject?type_name=Workspace HTTP/1.1" 302 465 "http://localhost:11401/misch/projekte" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
+127.0.0.1 - Anonymous [07/May/2013:16:30:17 +0200] "GET /misch/projekte/createObject?type_name=Workspace HTTP/1.1" 302 465 "http://localhost:11401/misch/projekte/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0"
+
